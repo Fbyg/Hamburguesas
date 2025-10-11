@@ -1,3 +1,10 @@
+## New Features 
+- Elegir entrante
+- Punto de la carne
+- Elegir tipo de pan
+- Elegir entre vaso pequeño o grande
+- Se podrá aplicar un cupón de descuento
+
 # Hamburguesas
 Este proyecto es un simulador de pedido de hamburguesas desarrollado en Java. 
 Permite al usuario seleccionar una hamburguesa, añadir extras, quitar ingredientes no deseados y elegir una bebida. 
@@ -11,7 +18,8 @@ El pedido se prepara con una cuenta atrás simulando el tiempo real de preparaci
 - Selección de bebidas: CocaCola, Fanta, Sprite, 7Up, Agua y Cerveza
 - Cuenta atrás simulando el tiempo de preparación del pedido
 - Resumen final del pedido con los ingredientes y bebida seleccionados
-- Uso de emojis para una experiencia más visual
+- Te indica el precio una vez pasado el tiempo de preparado
+- Te dice el precio de los extras + las hamburguesas
 
 ## Requisitos
 
