@@ -5,6 +5,15 @@
 - Elegir entre vaso pequeño o grande
 - Se podrá aplicar un cupón de descuento
 
+## Nuevas funcionalidades añadidas
+- Validacion de un cliente registrado
+- Pide confirmacion de el pedido
+- Genera un archivo PDF con el ticket
+
+## Errores corregidos
+- Ya no da error al generar el pedido
+- Fixed el bug de elegir la bebida
+
 # Hamburguesas
 Este proyecto es un simulador de pedido de hamburguesas desarrollado en Java. 
 Permite al usuario seleccionar una hamburguesa, añadir extras, quitar ingredientes no deseados y elegir una bebida. 
