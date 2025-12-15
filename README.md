@@ -1,7 +1,5 @@
 ## New Features 
-- Elegir entrante
-- Punto de la carne
-- Elegir tipo de pan
+
 - Elegir entre vaso pequeño o grande
 - Se podrá aplicar un cupón de descuento
 
