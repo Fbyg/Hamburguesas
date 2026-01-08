@@ -1,0 +1,4 @@
+Compilar    javac -d bin (Get-ChildItem -Recurse src -Filter *.java | ForEach-Object { $_.FullName })
+
+Ejecutar    java -cp "bin;sqlite-jdbc-3.43.2.0.jar;slf4j-api-2.0.9.jar;slf4j-simple-2.0.9.jar" ui.ventanaPrincipal
+
